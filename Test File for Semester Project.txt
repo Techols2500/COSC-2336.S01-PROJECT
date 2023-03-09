@@ -1,0 +1,16 @@
+EXP (V01 + 18)*
+(V01 - V02) / 6;
+value V02 6;
+VALue v01 7;
+eval;
+value V02 -7;
+EVAL;
+EXP V01 / V02;
+value V01 99;
+value V02 99;
+EVAL;
+VALUE V02 0;
+EVAL;
+EXP V01 + V02 - V03;
+VALUE V03 4;
+EVAL;

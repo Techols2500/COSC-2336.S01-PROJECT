@@ -1,0 +1,63 @@
+EXP ((V01 + 5) * 5) / (V02 - 5);
+VALUE V01 8;
+VALUE V02 7;
+EVAL;
+
+EXP V01 + 12 ) * ( V02 - 8;
+VALUE V01 1;
+VALUE V02 2;
+EVAL;
+
+EXP(V01 + (V02 ** 3));
+VALUE V01 -5;
+VALUE V02 10;
+EVAL;
+
+EXP 1+-3;
+EVAL;
+
+EXP 5 / 0;
+EVAL;
+
+EXP ((((5+5)*10)*10)*10);
+EVAL;
+
+EXP ((((5+5)*10)*10)*10)));
+EVAL;
+
+EXP ((((((5+5)*10)*10)*10);
+EVAL;
+
+EXP(V01 + 3) * (V02 - 8);
+VALUE V01 12;
+VALUE V02 -6;
+EVAL;
+VALUE V01 -19;
+EVAL;
+
+EXP(V01 + V02) * 2;
+EVAL;
+
+EXP(V01 + (V02 * 3);
+VALUE V01 -5;
+VALUE V02 10;
+EVAL;
+
+EXP RANDOM EXPRESSION;
+EVAL;
+
+exp ((V01 + 5) * 5) / (V02 - 5);
+value V01 8;
+value V02 7;
+eval;
+value V01 -16;
+eval;
+value V02 5;
+eval;
+exp ((V01 - 8) + V02;
+exp (V01 * (V01 + V02));
+eval;
+exp V01 + 5) * (V02 - 8;
+
+exp (V01 - +V02);  
+	
